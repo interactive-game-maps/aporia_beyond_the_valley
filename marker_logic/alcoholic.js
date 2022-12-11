@@ -1,13 +1,13 @@
 // Simple
 // Just a simple group of collectibles, trackable in the sidebar
 
-function addCollectibles(map) {
+function addAlcoholic(map) {
 
     // New layer with id `collectibles` from geoJSON `collectibles`
-    map.addInteractiveLayer('collectibles', collectibles, {
+    map.addInteractiveLayer('alcoholic', alcoholic, {
 
         // The display name for this layer
-        name: 'Collectibles',
+        name: 'Alcoholic',
 
         // This layer should have a tab in the sidebar with a list for each feature ID
         create_checkbox: true,

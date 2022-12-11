@@ -13,7 +13,7 @@ var interactive_map = new InteractiveMap('map', {
     max_good_zoom: 6,
     // This is the max zoom the map will allow
     max_map_zoom: 8,
-    website_source: 'https://github.com/interactive-game-maps/template',
+    website_source: 'https://github.com/interactive-game-maps/aporia_beyond_the_valley',
     website_subdir: 'template',
     attribution: `
     <li><a href="https://www.example.com/index.html">$Thing</a> used by <a href="https://www.example.com/index.html">$person</a> under <a href="https://www.example.com/index.html">$license</a></li>
@@ -29,8 +29,8 @@ var interactive_map = new InteractiveMap('map', {
 // `./gdal2tiles.py -l -p raster -w none -z 3-5 full_map.jpg map_tiles`
 interactive_map.addTileLayer('Ingame map', {
     minNativeZoom: 2,
-    maxNativeZoom: 4,
-    attribution: 'Map from <a href="https://www.example.com/index.html">$source</a>'
+    maxNativeZoom: 5,
+    attribution: 'Map from <a href="https://aporiathegame.com/">Invisible Walls</a> (game data files)'
 });
 
 // Step 2.5 (optional):
@@ -45,12 +45,12 @@ interactive_map.addTileLayer('Ingame map', {
 // Add at least one marker layer
 // The order matters - they will appear in this order in the sidebar and layer control
 // See `marker_logic/collectibles.js` for a really basic layer
-addCollectibles(interactive_map);
+addAlcoholic(interactive_map);
 
 // Step 3.5 (optional):
 // Add more marker layer
 // See `marker_logic/information.js` for more advanced technics
-addInformation(interactive_map);
+// addInformation(interactive_map);
 
 // Step 4:
 // Finalize the map after adding all layers.
