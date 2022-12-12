@@ -52,6 +52,11 @@ addAlcoholic(interactive_map);
 // See `marker_logic/information.js` for more advanced technics
 addHerbivore(interactive_map);
 
+// Step 3.5 (optional):
+// Add more marker layer
+// See `marker_logic/information.js` for more advanced technics
+addLightMyFire(interactive_map);
+
 // Step 4:
 // Finalize the map after adding all layers.
 interactive_map.finalize();
