@@ -23,7 +23,7 @@ function addAlcoholic(map) {
         // We don't have created a custom icon so let's use a generic one from Font Awesome
         // Omitting this uses the group icon in `images/icons/${this.id}.png` by default
         // This needs a html string or a function that return a html string
-        sidebar_icon_html: '<i class="fas fa-gem"></i>',
+        sidebar_icon_html: '<i class="fas fa-flask"></i>',
 
         // We don't have created a custom icon so we have to manually provide a marker
         // Omitting this sets a marker with the group icon in `images/icons/${this.id}.png` by default
@@ -40,7 +40,7 @@ function addAlcoholic(map) {
                 // * the group id (`this.id`) to take the `images/icons/${this.id}.png`
                 // * a max 2 char long string
                 // * nothing for a generic marker
-                icon: Utils.getCustomIcon('fa-gem'),
+                icon: Utils.getCustomIcon('fa-flask'),
                 riseOnHover: true
             });
         }

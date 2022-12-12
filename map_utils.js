@@ -15,7 +15,7 @@ function getPopupMedia(feature, layer_id) {
         var image_link = document.createElement('a');
 
         // Add a destination to our link
-        image_link.href = `images/${layer_id}/${feature.properties.image_id}.png`;
+        image_link.href = `images/${layer_id}/${feature.properties.image_id}.jpg`;
 
         // Create a new element - `img` will be an image
         var image = document.createElement('img');
@@ -33,7 +33,7 @@ function getPopupMedia(feature, layer_id) {
         // Add the image link with the included image to our top html element
         html.appendChild(image_link);
 
-    // Do the following for geoJSON features hat have an `external_id` property
+        // Do the following for geoJSON features hat have an `external_id` property
     } else if (feature.properties.external_id) {
 
         // Create a new element - `a` will be a clickable link
@@ -58,7 +58,7 @@ function getPopupMedia(feature, layer_id) {
         // Add the image link with the included image to the top html element
         html.appendChild(image_link);
 
-    // Do the following for geoJSON features hat have an `video_id` property
+        // Do the following for geoJSON features hat have an `video_id` property
     } else if (feature.properties.video_id) {
 
         // Videos can't resize properly yet so we have to do hardcode them in for now
@@ -80,6 +80,29 @@ function getPopupMedia(feature, layer_id) {
 
         // Add the video to the top html element
         html.appendChild(video);
+    } else if (feature.properties.id) {
+
+        // Create a new element - `a` will be a clickable link
+        var image_link = document.createElement('a');
+
+        // Add a destination to our link
+        image_link.href = `images/${layer_id}/${feature.properties.id}.jpg`;
+
+        // Create a new element - `img` will be an image
+        var image = document.createElement('img');
+
+        // Add a class to our image. `popup-media` will get a size change listener to readjust
+        // the popup location
+        image.className = 'popup-media';
+
+        // Add the image that should be displayed to the image element
+        image.src = image_link.href;
+
+        // Add the image inside the image link so clicking on the image will open the image in big
+        image_link.appendChild(image);
+
+        // Add the image link with the included image to our top html element
+        html.appendChild(image_link);
     }
 
     // At last return the created html element
