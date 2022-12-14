@@ -14,7 +14,7 @@ var interactive_map = new InteractiveMap('map', {
     // This is the max zoom the map will allow
     max_map_zoom: 8,
     website_source: 'https://github.com/interactive-game-maps/aporia_beyond_the_valley',
-    website_subdir: 'template',
+    website_subdir: 'aporia_beyond_the_valley',
     attribution: `
     <li><a href="https://www.example.com/index.html">$Thing</a> used by <a href="https://www.example.com/index.html">$person</a> under <a href="https://www.example.com/index.html">$license</a></li>
     <li>This project uses sample images from <a href="https://picsum.photos/">picsum.photos</a></li>
@@ -46,6 +46,11 @@ interactive_map.addTileLayer('Ingame map', {
 // The order matters - they will appear in this order in the sidebar and layer control
 // See `marker_logic/collectibles.js` for a really basic layer
 addAlcoholic(interactive_map);
+
+// Step 3.5 (optional):
+// Add more marker layer
+// See `marker_logic/information.js` for more advanced technics
+addGlassShards(interactive_map);
 
 // Step 3.5 (optional):
 // Add more marker layer

@@ -960,7 +960,8 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
-                "id": "III_24"
+                "id": "III_24",
+                "description": "Invisible under the floor, look for the glow at night"
             },
             "geometry": {
                 "type": "Point",
