@@ -4,6 +4,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "1 - Chapter II",
                 "id": "II_01"
             },
             "geometry": {
@@ -17,6 +18,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "2 - Chapter II",
                 "id": "II_02"
             },
             "geometry": {
@@ -30,6 +32,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "3 - Chapter II",
                 "id": "II_03"
             },
             "geometry": {
@@ -43,6 +46,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "4 - Chapter II",
                 "id": "II_04"
             },
             "geometry": {
@@ -56,6 +60,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "5 - Chapter II",
                 "id": "II_05"
             },
             "geometry": {
@@ -69,6 +74,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "6 - Chapter II",
                 "id": "II_06"
             },
             "geometry": {
@@ -82,6 +88,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "7 - Chapter II",
                 "id": "II_07"
             },
             "geometry": {
@@ -95,6 +102,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "8 - Chapter II",
                 "id": "II_08"
             },
             "geometry": {
@@ -108,6 +116,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "9 - Chapter II",
                 "id": "II_09"
             },
             "geometry": {
@@ -121,6 +130,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "10 - Chapter II",
                 "id": "II_10"
             },
             "geometry": {
@@ -134,6 +144,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "11 - Chapter II",
                 "id": "II_11"
             },
             "geometry": {
@@ -147,6 +158,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "12 - Chapter II",
                 "id": "II_12"
             },
             "geometry": {
@@ -160,6 +172,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "13 - Chapter II",
                 "id": "II_13"
             },
             "geometry": {
@@ -173,6 +186,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "14 - Chapter II",
                 "id": "II_14"
             },
             "geometry": {
@@ -186,6 +200,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "15 - Chapter II",
                 "id": "II_15"
             },
             "geometry": {
@@ -199,6 +214,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "16 - Chapter II",
                 "id": "II_16"
             },
             "geometry": {
@@ -212,6 +228,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "17 - Chapter II",
                 "id": "II_17"
             },
             "geometry": {
@@ -225,6 +242,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "18 - Chapter II",
                 "id": "II_18"
             },
             "geometry": {
@@ -238,6 +256,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "19 - Chapter II",
                 "id": "II_19"
             },
             "geometry": {
@@ -251,6 +270,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "20 - Chapter II",
                 "id": "II_20"
             },
             "geometry": {
@@ -264,7 +284,9 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
-                "id": "II_21"
+                "name": "21 - Chapter II",
+                "id": "II_21",
+                "name": "21 - Chapter II"
             },
             "geometry": {
                 "type": "Point",
@@ -277,6 +299,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "22 - Chapter II",
                 "id": "II_22"
             },
             "geometry": {
@@ -290,6 +313,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "23 - Chapter II",
                 "id": "II_23",
                 "description": "Missable, when dropped down too early"
             },
@@ -304,6 +328,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "24 - Chapter II",
                 "id": "II_24"
             },
             "geometry": {
@@ -317,6 +342,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "25 - Chapter II",
                 "id": "II_25"
             },
             "geometry": {
@@ -330,6 +356,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "26 - Chapter II",
                 "id": "II_26"
             },
             "geometry": {
@@ -343,6 +370,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "27 - Chapter II",
                 "id": "II_27"
             },
             "geometry": {
@@ -356,6 +384,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "28 - Chapter II",
                 "id": "II_28"
             },
             "geometry": {
@@ -369,6 +398,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "29 - Chapter II",
                 "id": "II_29"
             },
             "geometry": {
@@ -382,6 +412,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "30 - Chapter II",
                 "id": "II_30"
             },
             "geometry": {
@@ -395,6 +426,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "31 - Chapter II",
                 "id": "II_31"
             },
             "geometry": {
@@ -408,6 +440,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "32 - Chapter II",
                 "id": "II_32"
             },
             "geometry": {
@@ -421,6 +454,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "33 - Chapter II",
                 "id": "II_33"
             },
             "geometry": {
@@ -434,6 +468,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "34 - Chapter II",
                 "id": "II_34"
             },
             "geometry": {
@@ -447,6 +482,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "35 - Chapter II",
                 "id": "II_35"
             },
             "geometry": {
@@ -460,6 +496,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "36 - Chapter II",
                 "id": "II_36"
             },
             "geometry": {
@@ -473,6 +510,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "37 - Chapter II",
                 "id": "II_37"
             },
             "geometry": {
@@ -486,6 +524,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "38 - Chapter II",
                 "id": "II_38"
             },
             "geometry": {
@@ -499,6 +538,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "39 - Chapter II",
                 "id": "II_39"
             },
             "geometry": {
@@ -512,6 +552,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "1 - Chapter III",
                 "id": "III_01"
             },
             "geometry": {
@@ -525,6 +566,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "2 - Chapter III",
                 "id": "III_02"
             },
             "geometry": {
@@ -538,6 +580,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "3 - Chapter III",
                 "id": "III_03"
             },
             "geometry": {
@@ -551,6 +594,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "4 - Chapter III",
                 "id": "III_04"
             },
             "geometry": {
@@ -564,6 +608,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "5 - Chapter III",
                 "id": "III_05"
             },
             "geometry": {
@@ -577,6 +622,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "6 - Chapter III",
                 "id": "III_06"
             },
             "geometry": {
@@ -590,6 +636,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "7 - Chapter III",
                 "id": "III_07"
             },
             "geometry": {
@@ -603,6 +650,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "8 - Chapter III",
                 "id": "III_08"
             },
             "geometry": {
@@ -616,6 +664,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "9 - Chapter III",
                 "id": "III_09"
             },
             "geometry": {
@@ -629,6 +678,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "10 - Chapter III",
                 "id": "III_10"
             },
             "geometry": {
@@ -642,6 +692,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "11 - Chapter III",
                 "id": "III_11"
             },
             "geometry": {
@@ -655,6 +706,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "12 - Chapter III",
                 "id": "III_12"
             },
             "geometry": {
@@ -668,6 +720,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "13 - Chapter III",
                 "id": "III_13"
             },
             "geometry": {
@@ -681,6 +734,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "14 - Chapter III",
                 "id": "III_14",
                 "image_id": "III_13"
             },
@@ -695,6 +749,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "15 - Chapter III",
                 "id": "III_15"
             },
             "geometry": {
@@ -708,6 +763,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "16 - Chapter III",
                 "id": "III_16"
             },
             "geometry": {
@@ -721,6 +777,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "17 - Chapter III",
                 "id": "III_17"
             },
             "geometry": {
@@ -734,6 +791,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "18 - Chapter III",
                 "id": "III_18"
             },
             "geometry": {
@@ -747,6 +805,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "19 - Chapter III",
                 "id": "III_19"
             },
             "geometry": {
@@ -760,6 +819,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "20 - Chapter III",
                 "id": "III_20"
             },
             "geometry": {
@@ -773,6 +833,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "21 - Chapter III",
                 "id": "III_21"
             },
             "geometry": {
@@ -786,6 +847,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "22 - Chapter III",
                 "id": "III_22",
                 "name": "",
                 "image_id": "III_21"
@@ -801,6 +863,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "23 - Chapter III",
                 "id": "III_23",
                 "image_id": "III_21"
             },
@@ -815,6 +878,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "24 - Chapter III",
                 "id": "III_24"
             },
             "geometry": {
@@ -828,6 +892,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "25 - Chapter III",
                 "id": "III_25"
             },
             "geometry": {
@@ -841,6 +906,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "26 - Chapter III",
                 "id": "III_26"
             },
             "geometry": {
@@ -854,6 +920,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "27 - Chapter III",
                 "id": "III_27"
             },
             "geometry": {
@@ -867,6 +934,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "28 - Chapter III",
                 "id": "III_28"
             },
             "geometry": {
@@ -880,6 +948,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "29 - Chapter III",
                 "id": "III_29"
             },
             "geometry": {
@@ -893,6 +962,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "30 - Chapter III",
                 "id": "III_30"
             },
             "geometry": {
@@ -906,6 +976,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "31 - Chapter III",
                 "id": "III_31"
             },
             "geometry": {
@@ -919,6 +990,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "32 - Chapter III",
                 "id": "III_32"
             },
             "geometry": {
@@ -932,6 +1004,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "33 - Chapter III",
                 "id": "III_33"
             },
             "geometry": {
@@ -945,6 +1018,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "34 - Chapter III",
                 "id": "III_34"
             },
             "geometry": {
@@ -958,6 +1032,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "35 - Chapter III",
                 "id": "III_35"
             },
             "geometry": {
@@ -971,6 +1046,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "36 - Chapter III",
                 "id": "III_36"
             },
             "geometry": {
@@ -984,6 +1060,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "37 - Chapter III",
                 "id": "III_37"
             },
             "geometry": {
@@ -997,6 +1074,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "38 - Chapter III",
                 "id": "III_38"
             },
             "geometry": {
@@ -1010,6 +1088,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "39 - Chapter III",
                 "id": "III_39"
             },
             "geometry": {
@@ -1023,6 +1102,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "40 - Chapter III",
                 "id": "III_40"
             },
             "geometry": {
@@ -1036,6 +1116,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "41 - Chapter III",
                 "id": "III_41",
                 "image_id": "III_40"
             },
@@ -1050,6 +1131,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "42 - Chapter III",
                 "id": "III_42"
             },
             "geometry": {
@@ -1063,6 +1145,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "43 - Chapter III",
                 "id": "III_43",
                 "image_id": "III_42"
             },
@@ -1077,6 +1160,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "44 - Chapter III",
                 "id": "III_44",
                 "description": "Requires jumping"
             },
@@ -1091,6 +1175,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "45 - Chapter III",
                 "id": "III_45",
                 "image_id": "III_44",
                 "description": "Requires jumping"
@@ -1106,6 +1191,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "46 - Chapter III",
                 "id": "III_46"
             },
             "geometry": {
@@ -1119,6 +1205,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "47 - Chapter III",
                 "id": "III_47"
             },
             "geometry": {
@@ -1132,6 +1219,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "48 - Chapter III",
                 "id": "III_48",
                 "image_id": "III_47"
             },
@@ -1146,6 +1234,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "49 - Chapter III",
                 "id": "III_49"
             },
             "geometry": {
@@ -1159,6 +1248,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "50 - Chapter III",
                 "id": "III_50",
                 "image_id": "III_49"
             },
@@ -1173,6 +1263,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "51 - Chapter III",
                 "id": "III_51"
             },
             "geometry": {
@@ -1186,6 +1277,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "52 - Chapter III",
                 "id": "III_52"
             },
             "geometry": {
@@ -1199,6 +1291,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "53 - Chapter III",
                 "id": "III_53"
             },
             "geometry": {
@@ -1212,6 +1305,7 @@ var light_my_fire = {
         {
             "type": "Feature",
             "properties": {
+                "name": "54 - Chapter III",
                 "id": "III_54"
             },
             "geometry": {

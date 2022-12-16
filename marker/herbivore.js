@@ -4,6 +4,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "1 - Chapter II",
                 "id": "II_01"
             },
             "geometry": {
@@ -17,6 +18,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "2 - Chapter II",
                 "id": "II_02"
             },
             "geometry": {
@@ -30,6 +32,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "3 - Chapter II",
                 "id": "II_03"
             },
             "geometry": {
@@ -43,6 +46,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "4 - Chapter II",
                 "id": "II_04"
             },
             "geometry": {
@@ -56,6 +60,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "5 - Chapter II",
                 "id": "II_05"
             },
             "geometry": {
@@ -69,6 +74,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "6 - Chapter II",
                 "id": "II_06"
             },
             "geometry": {
@@ -82,6 +88,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "7 - Chapter II",
                 "id": "II_07"
             },
             "geometry": {
@@ -95,6 +102,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "8 - Chapter II",
                 "id": "II_08"
             },
             "geometry": {
@@ -108,6 +116,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "9 - Chapter II",
                 "id": "II_09"
             },
             "geometry": {
@@ -121,6 +130,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "10 - Chapter II",
                 "id": "II_10"
             },
             "geometry": {
@@ -134,6 +144,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "11 - Chapter II",
                 "id": "II_11"
             },
             "geometry": {
@@ -147,6 +158,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "12 - Chapter II",
                 "id": "II_12"
             },
             "geometry": {
@@ -160,6 +172,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "13 - Chapter II",
                 "id": "II_13"
             },
             "geometry": {
@@ -173,6 +186,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "1 - Chapter III",
                 "id": "III_01"
             },
             "geometry": {
@@ -187,6 +201,7 @@ var herbivore = {
             "type": "Feature",
             "properties": {
                 "image_id": "III_01",
+                "name": "2 - Chapter III",
                 "id": "III_02"
             },
             "geometry": {
@@ -200,6 +215,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "3 - Chapter III",
                 "id": "III_03"
             },
             "geometry": {
@@ -213,6 +229,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "4 - Chapter III",
                 "id": "III_04"
             },
             "geometry": {
@@ -226,6 +243,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "5 - Chapter III",
                 "id": "III_05"
             },
             "geometry": {
@@ -239,6 +257,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "6 - Chapter III",
                 "id": "III_06"
             },
             "geometry": {
@@ -252,6 +271,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "7 - Chapter III",
                 "id": "III_07"
             },
             "geometry": {
@@ -265,6 +285,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "8 - Chapter III",
                 "id": "III_08"
             },
             "geometry": {
@@ -278,6 +299,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "9 - Chapter III",
                 "id": "III_09"
             },
             "geometry": {
@@ -291,6 +313,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "10 - Chapter III",
                 "id": "III_10"
             },
             "geometry": {
@@ -305,6 +328,7 @@ var herbivore = {
             "type": "Feature",
             "properties": {
                 "description": "3",
+                "name": "11 - Chapter III",
                 "id": "III_11"
             },
             "geometry": {
@@ -318,6 +342,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "12 - Chapter III",
                 "id": "III_12"
             },
             "geometry": {
@@ -331,6 +356,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "13 - Chapter III",
                 "id": "III_13"
             },
             "geometry": {
@@ -344,6 +370,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "14 - Chapter III",
                 "id": "III_14"
             },
             "geometry": {
@@ -357,6 +384,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "15 - Chapter III",
                 "id": "III_15"
             },
             "geometry": {
@@ -370,6 +398,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "16 - Chapter III",
                 "id": "III_16"
             },
             "geometry": {
@@ -383,6 +412,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "17 - Chapter III",
                 "id": "III_17"
             },
             "geometry": {
@@ -396,6 +426,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "18 - Chapter III",
                 "id": "III_18",
                 "description": "Behind the building"
             },
@@ -410,6 +441,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "19 - Chapter III",
                 "id": "III_19",
                 "description": "3"
             },
@@ -424,6 +456,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "20 - Chapter III",
                 "id": "III_20"
             },
             "geometry": {
@@ -437,6 +470,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "21 - Chapter III",
                 "id": "III_21"
             },
             "geometry": {
@@ -450,6 +484,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "22 - Chapter III",
                 "id": "III_22",
                 "description": "2"
             },
@@ -464,6 +499,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "23 - Chapter III",
                 "id": "III_23",
                 "description": "Entrance"
             },
@@ -478,6 +514,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "24 - Chapter III",
                 "id": "III_24",
                 "description": "3"
             },
@@ -492,6 +529,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "25 - Chapter III",
                 "id": "III_25",
                 "description": "End"
             },
@@ -506,6 +544,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "26 - Chapter III",
                 "id": "III_26"
             },
             "geometry": {
@@ -519,6 +558,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "27 - Chapter III",
                 "id": "III_27"
             },
             "geometry": {
@@ -532,6 +572,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "28 - Chapter III",
                 "id": "III_28"
             },
             "geometry": {
@@ -545,6 +586,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "29 - Chapter III",
                 "id": "III_29",
                 "description": "3"
             },
@@ -559,6 +601,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "30 - Chapter III",
                 "id": "III_30",
                 "description": "On top of the building, requires jumping"
             },
@@ -573,6 +616,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "31 - Chapter III",
                 "id": "III_31",
                 "description": "3"
             },
@@ -587,6 +631,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "32 - Chapter III",
                 "id": "III_32"
             },
             "geometry": {
@@ -600,6 +645,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "33 - Chapter III",
                 "id": "III_33"
             },
             "geometry": {
@@ -613,6 +659,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "34 - Chapter III",
                 "id": "III_34"
             },
             "geometry": {
@@ -626,6 +673,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "35 - Chapter III",
                 "id": "III_35",
                 "description": "3"
             },
@@ -640,6 +688,7 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
+                "name": "36 - Chapter III",
                 "id": "III_36",
                 "description": "Requires finding all glass shards"
             },

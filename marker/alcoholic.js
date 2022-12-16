@@ -4,6 +4,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "1 - Chapter I",
                 "id": "I_01"
             },
             "geometry": {
@@ -17,6 +18,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "2 - Chapter I",
                 "id": "I_02"
             },
             "geometry": {
@@ -30,6 +32,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "3 - Chapter I",
                 "id": "I_03"
             },
             "geometry": {
@@ -43,6 +46,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "4 - Chapter I",
                 "id": "I_04",
                 "description": "through the destructible wall"
             },
@@ -57,6 +61,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "5 - Chapter I",
                 "id": "I_05",
                 "description": "through the destructible wall"
             },
@@ -71,6 +76,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "6 - Chapter I",
                 "id": "I_06"
             },
             "geometry": {
@@ -84,6 +90,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "7 - Chapter I",
                 "id": "I_07"
             },
             "geometry": {
@@ -97,6 +104,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "8 - Chapter I",
                 "id": "I_08",
                 "description": "Under water"
             },
@@ -111,6 +119,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "9 - Chapter I",
                 "id": "I_09"
             },
             "geometry": {
@@ -124,6 +133,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "10 - Chapter I",
                 "id": "I_10"
             },
             "geometry": {
@@ -137,6 +147,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "11 - Chapter I",
                 "id": "I_11"
             },
             "geometry": {
@@ -150,6 +161,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "12 - Chapter I",
                 "id": "I_12"
             },
             "geometry": {
@@ -163,6 +175,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "13 - Chapter I",
                 "id": "I_13"
             },
             "geometry": {
@@ -176,6 +189,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "14 - Chapter I",
                 "id": "I_14"
             },
             "geometry": {
@@ -189,6 +203,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "15 - Chapter I",
                 "id": "I_15"
             },
             "geometry": {
@@ -202,6 +217,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "16 - Chapter I",
                 "id": "I_16"
             },
             "geometry": {
@@ -215,6 +231,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "17 - Chapter I",
                 "id": "I_17"
             },
             "geometry": {
@@ -228,6 +245,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "18 - Chapter I",
                 "id": "I_18"
             },
             "geometry": {
@@ -241,6 +259,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "1 - Chapter II",
                 "id": "II_01"
             },
             "geometry": {
@@ -254,6 +273,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "2 - Chapter II",
                 "id": "II_02"
             },
             "geometry": {
@@ -267,6 +287,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "3 - Chapter II",
                 "id": "II_03"
             },
             "geometry": {
@@ -280,6 +301,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "4 - Chapter II",
                 "id": "II_04"
             },
             "geometry": {
@@ -293,6 +315,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "5 - Chapter II",
                 "id": "II_05"
             },
             "geometry": {
@@ -306,6 +329,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "6 - Chapter II",
                 "id": "II_06"
             },
             "geometry": {
@@ -319,6 +343,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "7 - Chapter II",
                 "id": "II_07"
             },
             "geometry": {
@@ -332,6 +357,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "8 - Chapter II",
                 "id": "II_08"
             },
             "geometry": {
@@ -345,6 +371,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "9 - Chapter II",
                 "id": "II_09",
                 "description": "Missable, when dropped down too early"
             },
@@ -359,6 +386,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "10 - Chapter II",
                 "id": "II_10",
                 "description": "Missable, when dropped down too early"
             },
@@ -373,6 +401,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "11 - Chapter II",
                 "id": "II_11"
             },
             "geometry": {
@@ -386,6 +415,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "12 - Chapter II",
                 "id": "II_12"
             },
             "geometry": {
@@ -399,6 +429,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "13 - Chapter II",
                 "id": "II_13"
             },
             "geometry": {
@@ -412,6 +443,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "14 - Chapter II",
                 "id": "II_14"
             },
             "geometry": {
@@ -425,6 +457,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "15 - Chapter II",
                 "id": "II_15"
             },
             "geometry": {
@@ -438,6 +471,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "16 - Chapter II",
                 "id": "II_16",
                 "description": "Jumping required"
             },
@@ -452,6 +486,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "17 - Chapter II",
                 "id": "II_17",
                 "description": "Under water"
             },
@@ -466,6 +501,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "18 - Chapter II",
                 "id": "II_18"
             },
             "geometry": {
@@ -479,6 +515,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "19 - Chapter II",
                 "id": "II_19"
             },
             "geometry": {
@@ -492,6 +529,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "20 - Chapter II",
                 "id": "II_20"
             },
             "geometry": {
@@ -505,6 +543,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "21 - Chapter II",
                 "id": "II_21"
             },
             "geometry": {
@@ -518,6 +557,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "22 - Chapter II",
                 "id": "II_22",
                 "description": "Under water"
             },
@@ -532,6 +572,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "23 - Chapter II",
                 "id": "II_23",
                 "description": "Under water"
             },
@@ -546,6 +587,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "24 - Chapter II",
                 "id": "II_24"
             },
             "geometry": {
@@ -559,6 +601,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "25 - Chapter II",
                 "id": "II_25"
             },
             "geometry": {
@@ -572,6 +615,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "26 - Chapter II",
                 "id": "II_26"
             },
             "geometry": {
@@ -585,6 +629,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "27 - Chapter II",
                 "id": "II_27"
             },
             "geometry": {
@@ -598,6 +643,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "28 - Chapter II",
                 "id": "II_28"
             },
             "geometry": {
@@ -611,6 +657,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "29 - Chapter II",
                 "id": "II_29"
             },
             "geometry": {
@@ -624,6 +671,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "30 - Chapter II",
                 "id": "II_30"
             },
             "geometry": {
@@ -637,6 +685,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "31 - Chapter II",
                 "id": "II_31"
             },
             "geometry": {
@@ -650,6 +699,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "32 - Chapter II",
                 "id": "II_32"
             },
             "geometry": {
@@ -663,6 +713,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "1 - Chapter III",
                 "id": "III_01"
             },
             "geometry": {
@@ -676,6 +727,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "2 - Chapter III",
                 "id": "III_02"
             },
             "geometry": {
@@ -689,6 +741,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "3 - Chapter III",
                 "id": "III_03"
             },
             "geometry": {
@@ -702,6 +755,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "4 - Chapter III",
                 "id": "III_04"
             },
             "geometry": {
@@ -715,6 +769,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "5 - Chapter III",
                 "id": "III_05"
             },
             "geometry": {
@@ -728,6 +783,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "6 - Chapter III",
                 "id": "III_06"
             },
             "geometry": {
@@ -741,6 +797,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "7 - Chapter III",
                 "id": "III_07"
             },
             "geometry": {
@@ -754,6 +811,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "8 - Chapter III",
                 "id": "III_08"
             },
             "geometry": {
@@ -767,6 +825,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "9 - Chapter III",
                 "id": "III_09"
             },
             "geometry": {
@@ -780,6 +839,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "10 - Chapter III",
                 "id": "III_10"
             },
             "geometry": {
@@ -793,6 +853,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "11 - Chapter III",
                 "id": "III_11"
             },
             "geometry": {
@@ -806,6 +867,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "12 - Chapter III",
                 "id": "III_12"
             },
             "geometry": {
@@ -819,6 +881,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "13 - Chapter III",
                 "id": "III_13"
             },
             "geometry": {
@@ -832,6 +895,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "14 - Chapter III",
                 "id": "III_14"
             },
             "geometry": {
@@ -845,6 +909,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "15 - Chapter III",
                 "id": "III_15"
             },
             "geometry": {
@@ -858,6 +923,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "16 - Chapter III",
                 "id": "III_16"
             },
             "geometry": {
@@ -871,6 +937,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "17 - Chapter III",
                 "id": "III_17"
             },
             "geometry": {
@@ -884,6 +951,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "18 - Chapter III",
                 "id": "III_18"
             },
             "geometry": {
@@ -897,6 +965,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "19 - Chapter III",
                 "id": "III_19"
             },
             "geometry": {
@@ -910,6 +979,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "20 - Chapter III",
                 "id": "III_20"
             },
             "geometry": {
@@ -923,6 +993,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "21 - Chapter III",
                 "id": "III_21"
             },
             "geometry": {
@@ -936,6 +1007,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "22 - Chapter III",
                 "id": "III_22"
             },
             "geometry": {
@@ -949,6 +1021,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "23 - Chapter III",
                 "id": "III_23"
             },
             "geometry": {
@@ -962,6 +1035,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "24 - Chapter III",
                 "id": "III_24",
                 "description": "Invisible under the floor, look for the glow at night"
             },
@@ -976,6 +1050,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "25 - Chapter III",
                 "id": "III_25"
             },
             "geometry": {
@@ -989,6 +1064,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "26 - Chapter III",
                 "id": "III_26"
             },
             "geometry": {
@@ -1002,6 +1078,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "27 - Chapter III",
                 "id": "III_27"
             },
             "geometry": {
@@ -1015,6 +1092,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "28 - Chapter III",
                 "id": "III_28"
             },
             "geometry": {
@@ -1028,6 +1106,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "29 - Chapter III",
                 "id": "III_29"
             },
             "geometry": {
@@ -1041,6 +1120,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "30 - Chapter III",
                 "id": "III_30",
                 "description": "Entrance"
             },
@@ -1055,6 +1135,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "31 - Chapter III",
                 "id": "III_31",
                 "description": "Walking puzzle"
             },
@@ -1069,6 +1150,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "32 - Chapter III",
                 "id": "III_32",
                 "description": "In the walking puzzle pit"
             },
@@ -1083,6 +1165,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "33 - Chapter III",
                 "id": "III_33",
                 "description": "Third overall weight puzzle, second at the walking puzzle"
             },
@@ -1097,6 +1180,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "34 - Chapter III",
                 "id": "III_34",
                 "description": "Area to the right entered through the weight puzzle"
             },
@@ -1111,6 +1195,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "35 - Chapter III",
                 "id": "III_35",
                 "description": "Area to the left entered through the weight puzzle"
             },
@@ -1125,6 +1210,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "36 - Chapter III",
                 "id": "III_36"
             },
             "geometry": {
@@ -1138,6 +1224,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "37 - Chapter III",
                 "id": "III_37"
             },
             "geometry": {
@@ -1151,6 +1238,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "38 - Chapter III",
                 "id": "III_38"
             },
             "geometry": {
@@ -1164,6 +1252,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "39 - Chapter III",
                 "id": "III_39"
             },
             "geometry": {
@@ -1177,6 +1266,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "40 - Chapter III",
                 "id": "III_40"
             },
             "geometry": {
@@ -1190,6 +1280,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "41 - Chapter III",
                 "id": "III_41"
             },
             "geometry": {
@@ -1203,6 +1294,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "42 - Chapter III",
                 "id": "III_42"
             },
             "geometry": {
@@ -1216,6 +1308,7 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
+                "name": "43 - Chapter III",
                 "id": "III_43",
                 "description": "Requires finding all glass shards"
             },
