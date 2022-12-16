@@ -50,6 +50,11 @@ addAlcoholic(interactive_map);
 // Step 3.5 (optional):
 // Add more marker layer
 // See `marker_logic/information.js` for more advanced technics
+addChapter(interactive_map);
+
+// Step 3.5 (optional):
+// Add more marker layer
+// See `marker_logic/information.js` for more advanced technics
 addGlassShards(interactive_map);
 
 // Step 3.5 (optional):
