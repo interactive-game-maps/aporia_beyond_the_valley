@@ -324,8 +324,8 @@ var alcoholic = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    78.875,
-                    -85.625
+                    71.96875,
+                    -79.21875
                 ]
             }
         },
@@ -337,20 +337,21 @@ var alcoholic = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    80.9375,
-                    -85.5
+                    71.96875,
+                    -79.21875
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "id": "II_09"
+                "id": "II_09",
+                "description": "Missable, when dropped down too early"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    78.625,
+                    79.53125,
                     -81.5
                 ]
             }
@@ -358,12 +359,13 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
-                "id": "II_10"
+                "id": "II_10",
+                "description": "Missable, when dropped down too early"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    80.3125,
+                    79.53125,
                     -81.5
                 ]
             }
@@ -376,8 +378,8 @@ var alcoholic = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    79.75,
-                    -82.8125
+                    79.53125,
+                    -83.375
                 ]
             }
         },
@@ -744,8 +746,8 @@ var alcoholic = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    110.125,
-                    -93.0625
+                    109.578125,
+                    -92.359375
                 ]
             }
         },
@@ -1039,7 +1041,8 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
-                "id": "III_30"
+                "id": "III_30",
+                "description": "Entrance"
             },
             "geometry": {
                 "type": "Point",
@@ -1052,51 +1055,13 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
-                "id": "III_31"
+                "id": "III_31",
+                "description": "Walking puzzle"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    64.6875,
-                    -121.5625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "III_32"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    66.25,
-                    -121.5625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "III_33"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    67.75,
-                    -121.625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "III_34"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    69.1875,
+                    63.25,
                     -121.6875
                 ]
             }
@@ -1104,13 +1069,56 @@ var alcoholic = {
         {
             "type": "Feature",
             "properties": {
-                "id": "III_35"
+                "id": "III_32",
+                "description": "In the walking puzzle pit"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    70.6875,
-                    -121.5625
+                    63.25,
+                    -121.6875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "III_33",
+                "description": "Third overall weight puzzle, second at the walking puzzle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.25,
+                    -121.6875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "III_34",
+                "description": "Area to the right entered through the weight puzzle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.25,
+                    -121.6875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "III_35",
+                "description": "Area to the left entered through the weight puzzle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.25,
+                    -121.6875
                 ]
             }
         },

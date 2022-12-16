@@ -464,13 +464,14 @@ var herbivore = {
         {
             "type": "Feature",
             "properties": {
-                "id": "III_23"
+                "id": "III_23",
+                "description": "Entrance"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    62.28125,
-                    -120.796875
+                    63.25,
+                    -121.6875
                 ]
             }
         },
@@ -483,21 +484,22 @@ var herbivore = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    62.90625,
-                    -120.78125
+                    63.25,
+                    -121.6875
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "id": "III_25"
+                "id": "III_25",
+                "description": "End"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    63.484375,
-                    -120.796875
+                    63.25,
+                    -121.6875
                 ]
             }
         },

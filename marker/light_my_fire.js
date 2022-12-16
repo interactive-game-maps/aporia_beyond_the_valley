@@ -74,8 +74,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    72.84375,
-                    -71.96875
+                    70.71875,
+                    -71.90625
                 ]
             }
         },
@@ -87,8 +87,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    71.375,
-                    -71.9375
+                    70.71875,
+                    -71.90625
                 ]
             }
         },
@@ -113,8 +113,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    69.90625,
-                    -71.875
+                    70.71875,
+                    -71.90625
                 ]
             }
         },
@@ -126,7 +126,7 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    69.875,
+                    70.625,
                     -70.125
                 ]
             }
@@ -152,8 +152,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    70.75,
-                    -67.9375
+                    70.5,
+                    -67.3125
                 ]
             }
         },
@@ -165,8 +165,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    71.625,
-                    -67.96875
+                    70.5,
+                    -67.3125
                 ]
             }
         },
@@ -178,8 +178,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    72.375,
-                    -67.96875
+                    70.5,
+                    -67.3125
                 ]
             }
         },
@@ -191,8 +191,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    73.15625,
-                    -67.90625
+                    70.5,
+                    -67.3125
                 ]
             }
         },
@@ -204,8 +204,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    73.875,
-                    -68.0625
+                    70.5,
+                    -67.3125
                 ]
             }
         },
@@ -230,7 +230,7 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    72.59375,
+                    71.96875,
                     -79.21875
                 ]
             }
@@ -243,8 +243,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    73.28125,
-                    -79.09375
+                    71.96875,
+                    -79.21875
                 ]
             }
         },
@@ -256,8 +256,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    73.96875,
-                    -79.0625
+                    71.96875,
+                    -79.21875
                 ]
             }
         },
@@ -269,8 +269,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    74.65625,
-                    -79.03125
+                    71.96875,
+                    -79.21875
                 ]
             }
         },
@@ -282,21 +282,22 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    77.75,
-                    -81.90625
+                    79.53125,
+                    -81.5
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "id": "II_23"
+                "id": "II_23",
+                "description": "Missable, when dropped down too early"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    78.59375,
-                    -81.90625
+                    79.53125,
+                    -81.5
                 ]
             }
         },
@@ -308,8 +309,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    78.1875,
-                    -83.5
+                    79.53125,
+                    -83.375
                 ]
             }
         },
@@ -321,8 +322,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    78.875,
-                    -83.46875
+                    79.53125,
+                    -83.375
                 ]
             }
         },
@@ -347,8 +348,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    80.15625,
-                    -83.4375
+                    79.53125,
+                    -83.375
                 ]
             }
         },
@@ -360,8 +361,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    77.40625,
-                    -84
+                    79.53125,
+                    -83.375
                 ]
             }
         },
@@ -373,8 +374,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    76.6875,
-                    -84.15625
+                    79.53125,
+                    -83.375
                 ]
             }
         },
@@ -386,8 +387,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    76.03125,
-                    -84.09375
+                    79.53125,
+                    -83.375
                 ]
             }
         },
@@ -399,8 +400,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    78.5,
-                    -86.5
+                    79.40625,
+                    -86.53125
                 ]
             }
         },
@@ -425,8 +426,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    80.125,
-                    -86.5625
+                    79.40625,
+                    -86.53125
                 ]
             }
         },
@@ -438,8 +439,8 @@ var light_my_fire = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    80.8125,
-                    -86.5
+                    79.40625,
+                    -86.53125
                 ]
             }
         },

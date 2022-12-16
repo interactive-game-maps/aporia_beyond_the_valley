@@ -63,8 +63,8 @@ var glass_shards = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    109.9375,
-                    -92.8125
+                    109.578125,
+                    -92.359375
                 ]
             }
         },
@@ -208,7 +208,7 @@ var glass_shards = {
                 "type": "Point",
                 "coordinates": [
                     144,
-                    -121.5
+                    -120.882812
                 ]
             }
         },
@@ -221,8 +221,8 @@ var glass_shards = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.25,
-                    -121.125
+                    144.234375,
+                    -120.359375
                 ]
             }
         },
