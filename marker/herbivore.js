@@ -699,6 +699,864 @@ var herbivore = {
                     -102.125
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1 - Chapter IV",
+                "id": "IV_01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    164.1875,
+                    -124.1875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2 - Chapter IV",
+                "id": "IV_02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    180.25,
+                    -162.875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3 - Chapter IV",
+                "id": "IV_03",
+                "image_id": "IV_02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    181.21875,
+                    -163.53125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4 - Chapter IV",
+                "id": "IV_04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    181.96875,
+                    -165.5625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "5 - Chapter IV",
+                "id": "IV_05",
+                "image_id": "IV_04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    181.5,
+                    -166.40625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6 - Chapter IV",
+                "id": "IV_06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    187.34375,
+                    -163.53125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7 - Chapter IV",
+                "id": "IV_07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    186.21875,
+                    -166.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8 - Chapter IV",
+                "id": "IV_08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    189.1875,
+                    -170.09375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "9 - Chapter IV",
+                "id": "IV_09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    187.59375,
+                    -173.03125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10 - Chapter IV",
+                "id": "IV_10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    186.40625,
+                    -177.59375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11 - Chapter IV",
+                "id": "IV_11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    191.625,
+                    -180.59375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "12 - Chapter IV",
+                "id": "IV_12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    194.4375,
+                    -179.375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "13 - Chapter IV",
+                "id": "IV_13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    189.84375,
+                    -177.53125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "14 - Chapter IV",
+                "id": "IV_14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    191.09375,
+                    -173.21875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15 - Chapter IV",
+                "id": "IV_15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    193,
+                    -175.40625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16 - Chapter IV",
+                "id": "IV_16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    195.71875,
+                    -175.21875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17 - Chapter IV",
+                "id": "IV_17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    197,
+                    -175.65625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "18 - Chapter IV",
+                "id": "IV_18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    198.4375,
+                    -172.28125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "19 - Chapter IV",
+                "id": "IV_19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    200.28125,
+                    -175.59375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20 - Chapter IV",
+                "id": "IV_20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    200.90625,
+                    -173.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21 - Chapter IV",
+                "id": "IV_21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    198.5,
+                    -177.40625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "22 - Chapter IV",
+                "id": "IV_22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    204.625,
+                    -174.46875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23 - Chapter IV",
+                "id": "IV_23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    206.53125,
+                    -170.375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24 - Chapter IV",
+                "id": "IV_24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    200.25,
+                    -171.375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25 - Chapter IV",
+                "id": "IV_25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    199.4375,
+                    -168.1875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26 - Chapter IV",
+                "id": "IV_26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    196.5,
+                    -170.3125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "27 - Chapter IV",
+                "id": "IV_27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    197.15625,
+                    -168.46875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "28 - Chapter IV",
+                "id": "IV_28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    200.65625,
+                    -166.90625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "29 - Chapter IV",
+                "id": "IV_29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    197.625,
+                    -166.9375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30 - Chapter IV",
+                "id": "IV_30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    194.46875,
+                    -166.9375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "31 - Chapter IV",
+                "id": "IV_31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    193.75,
+                    -168.15625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "32 - Chapter IV",
+                "id": "IV_32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    193.03125,
+                    -165.46875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "33 - Chapter IV",
+                "id": "IV_33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    191.65625,
+                    -164.1875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "34 - Chapter IV",
+                "id": "IV_34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    197.65625,
+                    -162.625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "35 - Chapter IV",
+                "id": "IV_35",
+                "image_id": "IV_34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    197.25,
+                    -161.40625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "36 - Chapter IV",
+                "id": "IV_36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    191.875,
+                    -158.96875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "37 - Chapter IV",
+                "id": "IV_37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    191.875,
+                    -155.46875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "38 - Chapter IV",
+                "id": "IV_38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    192.0625,
+                    -153.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "39 - Chapter IV",
+                "id": "IV_39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    190.03125,
+                    -154.78125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "40 - Chapter IV",
+                "id": "IV_40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    193.34375,
+                    -152.4375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "41 - Chapter IV",
+                "id": "IV_41",
+                "image_id": "IV_40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    193.03125,
+                    -150.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "42 - Chapter IV",
+                "id": "IV_42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    195.40625,
+                    -150.78125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43 - Chapter IV",
+                "id": "IV_43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    191.59375,
+                    -146.5625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "44 - Chapter IV",
+                "id": "IV_44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    188.25,
+                    -145.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "45 - Chapter IV",
+                "id": "IV_45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    186.125,
+                    -146.1875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "46 - Chapter IV",
+                "id": "IV_46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    181.28125,
+                    -144.625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "47 - Chapter IV",
+                "id": "IV_47"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    182.28125,
+                    -142.4375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "48 - Chapter IV",
+                "id": "IV_48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    181.796875,
+                    -146.453125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "49 - Chapter IV",
+                "id": "IV_49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    181.914063,
+                    -146.578125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "50 - Chapter IV",
+                "id": "IV_50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    183.476563,
+                    -148.335937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "51 - Chapter IV",
+                "id": "IV_51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    182.851563,
+                    -148.070312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "52 - Chapter IV",
+                "id": "IV_52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    185.125,
+                    -151.671875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "53 - Chapter IV",
+                "id": "IV_53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    187.3125,
+                    -148.289062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "54 - Chapter IV",
+                "id": "IV_54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.929688,
+                    -146.640625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "55 - Chapter IV",
+                "id": "IV_55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    181.375,
+                    -150.53125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "56 - Chapter IV",
+                "id": "IV_56"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.515625,
+                    -152.640625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "57 - Chapter IV",
+                "id": "IV_57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    180.21875,
+                    -154.875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "58 - Chapter IV",
+                "id": "IV_58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    187.703125,
+                    -157.546875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "59 - Chapter IV",
+                "id": "IV_59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    185.101563,
+                    -159.726562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "60 - Chapter IV",
+                "id": "IV_60"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    185.976563,
+                    -160.007812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "61 - Chapter IV",
+                "id": "IV_61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    181.34375,
+                    -152.59375
+                ]
+            }
         }
     ]
 };
