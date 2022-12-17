@@ -1315,6 +1315,76 @@ var light_my_fire = {
                     -90.484375
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_01",
+                "name": "1 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    201.34375,
+                    -158.59375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_02",
+                "name": "2 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    197.625,
+                    -159.1875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_03",
+                "name": "3 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    194.25,
+                    -160.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_04",
+                "name": "4 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    190.53125,
+                    -161.9375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_05",
+                "name": "5 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    187.46875,
+                    -162.375
+                ]
+            }
         }
     ]
 };
