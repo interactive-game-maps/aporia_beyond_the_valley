@@ -1557,6 +1557,146 @@ var herbivore = {
                     -152.59375
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1 - Chapter V",
+                "id": "V_01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.25,
+                    -189.3125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2 - Chapter V",
+                "id": "V_02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.1875,
+                    -174.1875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3 - Chapter V",
+                "id": "V_03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.1875,
+                    -174.1875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4 - Chapter V",
+                "id": "V_04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.875,
+                    -171.875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "5 - Chapter V",
+                "id": "V_05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.875,
+                    -171.875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6 - Chapter V",
+                "id": "V_06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.875,
+                    -171.875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7 - Chapter V",
+                "id": "V_07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0625,
+                    -170.0625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8 - Chapter V",
+                "id": "V_08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "9 - Chapter V",
+                "id": "V_09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10 - Chapter V",
+                "id": "V_10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
         }
     ]
 };
