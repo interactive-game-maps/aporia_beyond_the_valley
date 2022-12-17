@@ -1319,6 +1319,414 @@ var alcoholic = {
                     -102.15625
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_01",
+                "name": "1 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    164.625,
+                    -124.0625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_02",
+                "name": "2 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    198,
+                    -105.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_03",
+                "name": "3 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    210.90625,
+                    -126.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_04",
+                "name": "4 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    185.875,
+                    -163.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_05",
+                "name": "5 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    188.578125,
+                    -167.484375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_06",
+                "name": "6 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    191.484375,
+                    -173.703125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_07",
+                "name": "7 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    190.921875,
+                    -177.890625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_08",
+                "name": "8 - Chapter IV",
+                "description": "Behind the flower"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    197,
+                    -175.65625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_09",
+                "name": "9 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    202,
+                    -178.515625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_10",
+                "name": "10 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    198.109375,
+                    -172.0625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_11",
+                "name": "11 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    197.78125,
+                    -171.234375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_12",
+                "name": "12 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    197.796875,
+                    -167.984375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_13",
+                "name": "13 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    194.65625,
+                    -168.390625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_14",
+                "name": "14 - Chapter IV",
+                "description": "Under water, in a puddle between the tree and the geyser"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    194.140625,
+                    -162.140625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_15",
+                "name": "15 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    187.421875,
+                    -160.734375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_16",
+                "name": "16 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    189.546875,
+                    -156.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_17",
+                "name": "17 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    192.53125,
+                    -153.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_18",
+                "name": "18 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    191.953125,
+                    -149.59375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_19",
+                "name": "19 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    181.796875,
+                    -146.453125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_20",
+                "name": "20 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    183.453125,
+                    -148.03125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_21",
+                "name": "21 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    182.484375,
+                    -147.640625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_22",
+                "name": "22 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    182.484375,
+                    -147.640625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_23",
+                "name": "23 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    184.34375,
+                    -150.78125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_24",
+                "name": "25 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    183.59375,
+                    -149.0625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_25",
+                "name": "24 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    181.328125,
+                    -152.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_26",
+                "name": "26 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.0625,
+                    -152.6875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_27",
+                "name": "27 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.015625,
+                    -153.515625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_28",
+                "name": "28 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.875,
+                    -154.515625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "IV_29",
+                "name": "29 - Chapter IV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    182.265625,
+                    -157
+                ]
+            }
         }
     ]
 };
