@@ -1727,6 +1727,290 @@ var alcoholic = {
                     -157
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1 - Chapter V",
+                "id": "V_01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.125,
+                    -177.375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2 - Chapter V",
+                "id": "V_02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.8125,
+                    -180.0625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3 - Chapter V",
+                "id": "V_03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.6875,
+                    -175.9375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4 - Chapter V",
+                "id": "V_04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.0625,
+                    -176.125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "5 - Chapter V",
+                "id": "V_05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.25,
+                    -179.625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6 - Chapter V",
+                "id": "V_06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.625,
+                    -183.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7 - Chapter V",
+                "id": "V_07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.5,
+                    -186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8 - Chapter V",
+                "id": "V_08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.1875,
+                    -174.1875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "9 - Chapter V",
+                "id": "V_09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0625,
+                    -170.0625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10 - Chapter V",
+                "id": "V_10",
+                "image_id": "V_09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0625,
+                    -170.0625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11 - Chapter V",
+                "id": "V_11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "12 - Chapter V",
+                "id": "V_12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "13 - Chapter V",
+                "id": "V_13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "14 - Chapter V",
+                "id": "V_14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15 - Chapter V",
+                "id": "V_15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16 - Chapter V",
+                "id": "V_16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17 - Chapter V",
+                "id": "V_17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "18 - Chapter V",
+                "id": "V_18",
+                "image_id": "V_17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "19 - Chapter V",
+                "id": "V_19",
+                "image_id": "V_17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20 - Chapter V",
+                "id": "V_20",
+                "image_id": "V_17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.375,
+                    -178.8125
+                ]
+            }
         }
     ]
 };
