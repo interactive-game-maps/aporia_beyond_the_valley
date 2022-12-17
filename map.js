@@ -16,8 +16,7 @@ var interactive_map = new InteractiveMap('map', {
     website_source: 'https://github.com/interactive-game-maps/aporia_beyond_the_valley',
     website_subdir: 'aporia_beyond_the_valley',
     attribution: `
-    <li><a href="https://www.example.com/index.html">$Thing</a> used by <a href="https://www.example.com/index.html">$person</a> under <a href="https://www.example.com/index.html">$license</a></li>
-    <li>This project uses sample images from <a href="https://picsum.photos/">picsum.photos</a></li>
+    <li>This <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1150741177">guide</a> from <a href="https://steamcommunity.com/profiles/76561198070453188">Innocentive</a> was a great help!</li>
 `
 });
 
